@@ -1,12 +1,12 @@
 # Saša Radojević (ingzulex)
 
-Drummer · Recording Engineer · Developer
+Drummer · Recording Engineer · Developer · IT engineer
 
 Belgrade, Serbia
 
 ---
 
-## 👋 About
+## About
 
 I work at the intersection of **music, technology, and infrastructure**.
 
@@ -20,7 +20,7 @@ By instinct, I am a **problem solver**. I prefer practical solutions, clean setu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Systems & Infrastructure**
 
@@ -47,7 +47,7 @@ By instinct, I am a **problem solver**. I prefer practical solutions, clean setu
 
 ---
 
-## 🎛️ Audio & Music
+## Audio & Music
 
 * Professional drummer
 * Recording & studio work
@@ -58,7 +58,7 @@ Music keeps my engineering honest. Engineering keeps my music precise.
 
 ---
 
-## 📂 What You’ll Find Here
+## What You’ll Find Here
 
 This GitHub profile focuses on **real-world usage**, not demo projects.
 
@@ -70,7 +70,7 @@ Each repository exists for a reason.
 
 ---
 
-## 🌍 Online
+## Online
 
 * Website: [https://development.essenceweb.rs](https://development.essenceweb.rs)
 * Website: [https://essenceweb.rs](https://essenceweb.rs)
@@ -81,9 +81,8 @@ Each repository exists for a reason.
 ## 📬 Contact
 
 If you care about clarity, reliability, and systems that make sense:
-
-📧 [sasaradojevic@gmail.com](mailto:sasaradojevic@gmail.com)
-📧 [development@essenceweb.rs](development@essenceweb.rs)
+[sasaradojevic@gmail.com](mailto:sasaradojevic@gmail.com)
+[development@essenceweb.rs](development@essenceweb.rs)
 
 ---
 
