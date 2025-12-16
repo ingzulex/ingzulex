@@ -26,7 +26,7 @@ By instinct, I am a **problem solver**. I prefer practical solutions, clean setu
 
 * Linux (Arch, Debian-based)
 * MacOS
-* Windows Server & client(domain)
+* Windows Server & client
 * Server administration & maintenance
 * Networking & firewalls
 * Backup strategies & monitoring
