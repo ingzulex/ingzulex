@@ -25,13 +25,15 @@ By instinct, I am a **problem solver**. I prefer practical solutions, clean setu
 **Systems & Infrastructure**
 
 * Linux (Arch, Debian-based)
+* MacOS
+* Windows Server & client(domain)
 * Server administration & maintenance
 * Networking & firewalls
 * Backup strategies & monitoring
 
 **Development**
 
-* WordPress (custom themes, templates, hooks)
+* WordPress (custom themes, templates)
 * PHP, JavaScript
 * Tailwind CSS, Bootstrap
 * REST integrations
@@ -70,7 +72,8 @@ Each repository exists for a reason.
 
 ## 🌍 Online
 
-* Website: [https://devlex.rs](https://devlex.rs)
+* Website: [https://development.essenceweb.rs](https://development.essenceweb.rs)
+* Website: [https://essenceweb.rs](https://essenceweb.rs)
 * Location: Belgrade, Serbia
 
 ---
@@ -80,6 +83,7 @@ Each repository exists for a reason.
 If you care about clarity, reliability, and systems that make sense:
 
 📧 [sasaradojevic@gmail.com](mailto:sasaradojevic@gmail.com)
+📧 [development@essenceweb.rs](development@essenceweb.rs)
 
 ---
 
