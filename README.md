@@ -15,6 +15,8 @@ By day (and often by night), I build and maintain real systems:
 * Linux servers and workstations
 * Network and security infrastructure
 * WordPress-based platforms with custom logic
+* Pro drummer and recording engineer
+* Audio gear freak
 
 By instinct, I am a **problem solver**. I prefer practical solutions, clean setups, and tools that stay out of the way.
 
@@ -33,17 +35,17 @@ By instinct, I am a **problem solver**. I prefer practical solutions, clean setu
 
 **Development**
 
+* Full stack dev
 * WordPress (custom themes, templates)
-* PHP, JavaScript
-* Tailwind CSS, Bootstrap
+* PHP, JavaScript(laravel, react)
+* Tailwind, Bootstrap, CSS
 * REST integrations
 
 **Tools**
 
-* Neovim (primary IDE)
-* Git & GitHub
 * Bash scripting
-* Docker (selective, purpose-driven use)
+* Neovim (primary IDE), Emacs
+* Git & GitHub
 
 ---
 
@@ -51,7 +53,7 @@ By instinct, I am a **problem solver**. I prefer practical solutions, clean setu
 
 * Professional drummer
 * Recording & studio work
-* Live performance setups
+* Live performance
 * DIY audio electronics & signal routing
 
 Music keeps my engineering honest. Engineering keeps my music precise.
@@ -78,7 +80,7 @@ Each repository exists for a reason.
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you care about clarity, reliability, and systems that make sense:
 [sasaradojevic@gmail.com](mailto:sasaradojevic@gmail.com)
